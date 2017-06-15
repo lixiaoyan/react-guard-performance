@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "random-seed": "^0.3.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-guard": "^0.4.0",
+    "yargs": "^8.0.2"
+  }
+}
