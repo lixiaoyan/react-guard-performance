@@ -1,0 +1,39 @@
+React x 1,239 ops/sec ±2.66% (79 runs sampled)
+React (react-guard) x 1,199 ops/sec ±2.49% (79 runs sampled)
+-3.23%
+
+React x 1,233 ops/sec ±2.68% (81 runs sampled)
+React (react-guard) x 1,224 ops/sec ±2.52% (79 runs sampled)
+-0.73%
+
+React x 1,250 ops/sec ±2.65% (81 runs sampled)
+React (react-guard) x 1,202 ops/sec ±2.46% (79 runs sampled)
+-3.84%
+
+React x 1,222 ops/sec ±2.81% (80 runs sampled)
+React (react-guard) x 1,221 ops/sec ±2.56% (80 runs sampled)
+-0.08%
+
+React x 1,245 ops/sec ±2.46% (79 runs sampled)
+React (react-guard) x 1,230 ops/sec ±2.67% (79 runs sampled)
+-1.20%
+
+React x 1,255 ops/sec ±2.57% (82 runs sampled)
+React (react-guard) x 1,176 ops/sec ±2.58% (78 runs sampled)
+-6.29%
+
+React x 1,236 ops/sec ±2.75% (82 runs sampled)
+React (react-guard) x 1,168 ops/sec ±2.34% (82 runs sampled)
+-5.50%
+
+React x 1,264 ops/sec ±2.44% (80 runs sampled)
+React (react-guard) x 1,195 ops/sec ±2.52% (81 runs sampled)
+-5.46%
+
+React x 1,266 ops/sec ±2.49% (79 runs sampled)
+React (react-guard) x 1,213 ops/sec ±2.49% (80 runs sampled)
+-4.19%
+
+React x 1,239 ops/sec ±2.31% (78 runs sampled)
+React (react-guard) x 1,191 ops/sec ±2.43% (80 runs sampled)
+-3.87%
